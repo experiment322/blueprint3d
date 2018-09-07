@@ -6,6 +6,7 @@ build
 *.sublime-project
 *.log
 
+.idea
 .vscode
 bin
 doc
